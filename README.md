@@ -11,3 +11,5 @@ I would really appreciate if you could take a look over it and tell me if it loo
 In particular I could not find any good description of the Winner-Take-All layer so I'm not shure it is exactly the way the author inteded it.
 I would like to know how to implement a "leaky integrate-and-fire neuron" model.
 Thank you all in advance, enjoy!
+
+Start by trying the itti_model_demo.m file, change the image with whatever you prefer and than dive deeper in the other functions.
